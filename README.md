@@ -16,6 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 
 ## Program:
+```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Rakshitha J
@@ -80,7 +81,7 @@ print(y_prednew)
 xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
 y_prednew = predict(theta, xnew)
 print(y_prednew)
-
+```
 ## Output:
 ### Dataset
 ![image](https://github.com/user-attachments/assets/4b2f81b0-232d-4c9a-ba69-df0891ea857e)
